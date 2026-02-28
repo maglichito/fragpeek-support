@@ -18,7 +18,7 @@ Since Fragpeek uses FACEIT’s secure login portal, we do not store or manage yo
 We fetch data directly from the official FACEIT API. It usually takes **5–10 minutes** after a match concludes for the global API to update. If your stats seem stuck, try pulling down on the dashboard to trigger a manual refresh.
 
 ### 4. How do I switch to a different FACEIT account?
-Go to the **Settings** tab within Fragpeek and tap **Logout**. When you tap "Login" again, make sure you aren't automatically signed into your previous account by your browser; you may need to log out of FACEIT.com in your mobile browser first.
+In top bar tap on **Logout** icon. When you tap "Login" again, make sure you aren't automatically signed into your previous account by your browser; you may need to log out of FACEIT.com in your mobile browser first.
 
 ---
 
@@ -38,17 +38,6 @@ If you encounter a bug, a crash, or have a feature request to make Fragpeek bett
 Fragpeek respects your data. We only access the information provided via the FACEIT API to display your statistics.
 
 * [Privacy Policy](https://github.com/maglichito/fragpeek-policy)
-
----
-
-## 🚀 Download Fragpeek
-
-<a href="https://apps.apple.com/app/idYOUR_APPLE_ID">
-  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40">
-</a>
-<a href="https://play.google.com/store/apps/details?id=YOUR_ANDROID_PACKAGE_NAME">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40">
-</a>
 
 ---
 *© 2026 Fragpeek. Not affiliated with or endorsed by FACEIT.*
