@@ -37,8 +37,7 @@ If you encounter a bug, a crash, or have a feature request to make Fragpeek bett
 
 Fragpeek respects your data. We only access the information provided via the FACEIT API to display your statistics.
 
-* [Privacy Policy](link-to-your-privacy-policy-here)
-* [Terms of Service](link-to-your-terms-here)
+* [Privacy Policy](https://github.com/maglichito/fragpeek-policy)
 
 ---
 
